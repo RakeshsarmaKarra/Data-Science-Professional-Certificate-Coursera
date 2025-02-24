@@ -9,7 +9,7 @@ This repository contains my hands-on lab work and projects completed as part of 
 5. Python Project for Data Science - [Course Link](https://www.coursera.org/learn/python-project-for-data-science/home/module/1)
 6. Databases and SQL for Data Science - [Course Link](https://www.coursera.org/learn/sql-data-science/home/module/1)
 7. Data Analysis with Python - [Course Link](https://www.coursera.org/learn/data-analysis-with-python)
-8. Data Visualization with Python (Ongoing) - [Course Link](https://www.coursera.org/learn/python-for-data-visualization)
+8. Data Visualization with Python - [Course Link](https://www.coursera.org/learn/python-for-data-visualization)
 
 I will update this repository as I complete the remaining courses.
 
