@@ -11,7 +11,8 @@ This repository contains my hands-on lab work and projects completed as part of 
 7. Data Analysis with Python - [Course Link](https://www.coursera.org/learn/data-analysis-with-python) --> [Certificate](https://coursera.org/share/0d5340214d5a82cda8f3911d59021bca)
 8. Data Visualization with Python - [Course Link](https://www.coursera.org/learn/python-for-data-visualization) --> [Certificate](https://coursera.org/share/46fc7db88e197ad7c606cdd7634328a8)
 9. Machine Learning with Python - [Course Link](https://www.coursera.org/programs/career-academy-pilot-program-edg1k/learn/machine-learning-with-python?authProvider=c4c-northtexas) --> [Certificate](https://coursera.org/share/f9dbfc1b1fa23ec7dc62eb0d7b176132)
+10. Applied Capsone Project - [Course Link](https://www.coursera.org/learn/applied-data-science-capstone) --> [Certificate](https://coursera.org/share/1af55695775b73f53e9126486e65de41)
 
-I will update this repository as I complete the remaining courses.
+[Click here to view capstone project report](https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/Data%20Science%20Capstone%20Project%20-%20Space%20X.pdf)
 
 [Visit the Coursera webpage](https://www.coursera.org/professional-certificates/ibm-data-science)
